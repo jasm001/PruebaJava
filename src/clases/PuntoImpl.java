@@ -22,15 +22,6 @@ public class PuntoImpl {
         return y;
     }
 
-    /*
-        public void setX(double x) {
-            this.x = x;
-        }
-
-        public void setY(double y) {
-            this.y = y;
-        }
-    */
     @Override
     //en este apartado usamos los metodos genericos, en este caso toString() para sobreescritura
     public String toString() {
